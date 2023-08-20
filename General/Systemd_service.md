@@ -1,0 +1,4 @@
+# How to create a service on systemd
+Init is a special process that started by the kernal , its special procosses because it the first process that get started by the kerne during boot.
+**Init process id or pid is one**
+Init is a process that is not only responsible for kind of booting the rest of the system and getting the system to a state where things are working people can loging and etc. but in addition to starting services , its a long running process that kind of has some power over other processes, for example when a process is orphaned because its parent process dies , its re-parented under init.
