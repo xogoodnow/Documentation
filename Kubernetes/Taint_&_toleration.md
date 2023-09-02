@@ -48,7 +48,7 @@ spec:
       tolerations:
       - effect: NoExecute
         operator: Exists
-      nodeName: master-node
+      nodeName: master-1
 ```
 
 
