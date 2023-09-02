@@ -74,3 +74,6 @@ https://www.youtube.com/watch?v=uHtzOFwgD74
 
 Refrence:  
 https://www.youtube.com/watch?v=LuuSXWkDJOo
+
+> **Note**
+> Sockets are aother type of IPC. Their main difference is that in this method, two process which are not located on the same machine can communicate with each other
