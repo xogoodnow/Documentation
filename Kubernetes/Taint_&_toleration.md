@@ -22,6 +22,7 @@ Toleration applies to pods.
 It allows the pods to schedule on nodes with matching taints.
 
 This deployment allow the pod to be schedule on master nodes:
+Keep in mind that these tolerations only work on "noschedule" and "noexecute" taints.
 
 ```yaml
 apiVersion: apps/v1
