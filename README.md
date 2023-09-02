@@ -1,1 +1,1 @@
-# Ultimate Documentation
+# Documentation
