@@ -52,6 +52,4 @@ spec:
 ```
 
 
-## Important types of taints
-NoSchedule: In this taint, no other pod would be scheduled on the node with this taint (not considering tolerations)
-NoExecute: In this taint, every pod which does not have the toleration for this tains (on this node) would be evited.
+
